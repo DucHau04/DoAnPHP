@@ -1,0 +1,7 @@
+{
+    "liveServer.settings.port": 5501,
+    "workbench.iconTheme": "material-icon-theme",
+    "liveServer.settings.donotShowInfoMsg": true,
+    "workbench.colorTheme": "Dracula Theme",
+    "php.validate.executablePath": "D:/PHP/php.exe"
+}
