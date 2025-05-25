@@ -1,5 +1,4 @@
 <!DOCTYPE html> 
-<!-- oke -->
 <html lang="vi">
 <head>
     <meta charset="UTF-8">
